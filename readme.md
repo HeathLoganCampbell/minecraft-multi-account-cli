@@ -1,5 +1,5 @@
-# Minecraft Mutli Account launcher
-This client allows you to quickly launch muliple Minecraft accounts at once which is useful for minigame plugin development and is only really made to work for me.
+# Minecraft Multi Account launcher
+This client allows you to quickly launch multiple Minecraft accounts at once which is useful for minigame plugin development and is only really made to work for me.
 
 ## How to install
 ```
